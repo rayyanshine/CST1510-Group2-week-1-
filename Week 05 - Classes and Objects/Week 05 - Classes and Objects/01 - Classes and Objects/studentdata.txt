@@ -1,0 +1,5 @@
+ali,AI and DS,85
+Sara, IT,72
+John,Cybersecurity,65
+mary,AI and DS,91
+Ahmed,IT,58
